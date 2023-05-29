@@ -6,7 +6,7 @@ The main focus of this project is to make a web design that is responsive with s
 
 ## Features
 
-- Full responsive
+- Full responsive for most monitors, android and Iphone
 - Speed optimized
 - Live previews
 - Fullscreen mode
@@ -31,4 +31,5 @@ Speed optimization during using javascript and complex web patterns devloping.
 
 If you have any feedback, please reach out to us at saminyeasararnob@gmail.com.
 You can visit the demo site at :
-https://saminkirigaya.github.io/frontenddesign.github.io/
+
+Uploaded a demo image to demonstrate the primary view.
