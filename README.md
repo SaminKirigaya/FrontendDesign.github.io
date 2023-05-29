@@ -32,4 +32,4 @@ Speed optimization during using javascript and complex web patterns devloping.
 If you have any feedback, please reach out to us at saminyeasararnob@gmail.com.
 You can visit the demo site at :
 
-Uploaded a demo image to demonstrate the primary view.
+Uploaded a demo image 1,2,3 to demonstrate the primary view.
